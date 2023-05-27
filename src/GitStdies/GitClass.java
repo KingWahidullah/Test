@@ -9,6 +9,9 @@ public class GitClass {
 		
 		System.out.println(fname);
 		
+		int age= 22;
+		System.out.println(fname+ "\nage is "+age);
+		
 	
 		
 			
